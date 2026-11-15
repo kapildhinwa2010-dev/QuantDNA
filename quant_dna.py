@@ -16,7 +16,7 @@ Features:
 import torch
 import torch.nn as nn
 import numpy as np
-from typing import Optional, Dict, Tuple, Literal
+from typing import Any, Optional, Dict, Tuple, Literal
 from dataclasses import dataclass
 
 
